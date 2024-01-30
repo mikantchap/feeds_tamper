@@ -1,4 +1,4 @@
-# feeds_tamper
+# Feeds Tamper custom plugins
 Provides a Feeds Tamper custom plugins for legacy imports (D7 to D9).
 
 ## The problem
