@@ -1,0 +1,26 @@
+<?php            
+  $map = array(
+    '0-28 days' => '1',
+    '1-12 months' => '1',
+    '1-15 years' => '2',
+    '16-17 years' => '3',
+    '18-24 years' => '4',
+    '25-64 years' => '5',
+    '65-85 years' => '7',
+    '85 +' => '8',
+    'All' => '9',
+    'All people 18 and over' => '9',
+    'All people under the age of 18' => '10',
+    'All people over the age of 65' => '7',
+    'Not known' => '10',
+    '0 to 12 years' => '1',
+    '1-15 years' => '2',
+    '13 to 15 years' => '2',
+    '16-17 years' => '3',
+    '18 to 24' => '4',
+    '25 to 49' => '5',
+    '50 to 64' => '6',
+    '65 to 79' => '7',
+    '80+' => '8',
+    'Prefer not to say' => '11'
+  );

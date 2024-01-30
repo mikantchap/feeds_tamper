@@ -1,0 +1,23 @@
+<?php            
+  $map = array(
+    'Dexterity' => '1',
+    'Hearing' => '2',
+    'Learning or understanding or concentrating' => '3',
+    'Memory' => '3',
+    'Mental Health' => '4',
+    'Mobility' => '1',
+    'Multiple' => '5',
+    'N/A' => '9',
+    'No' => '7',
+    'Not known' => '9',
+    'Other' => '6',
+    'Socially or behaviourally' => '4',
+    'Stamina or breathing or fatigue' => '1',
+    'Vision Impairment' => '2',
+    'Long term condition' => '5',
+    'Learning disability or difficulties' => '3',
+    'Mental health condition' => '4',
+    'Physical or mobility impairment' => '1',
+    'Prefer not to say' => '8',
+    'Sensory impairment' => '2',
+  );
