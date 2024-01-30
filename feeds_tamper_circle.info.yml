@@ -1,0 +1,8 @@
+name: Feeds Tamper custom plugins
+description: Provides a Feeds Tamper custom plugins for legacy imports.
+core_version_requirement: ^8.8 || ^9
+type: module
+dependencies:
+  - drupal:system (>=8.5.0)
+  - tamper:tamper
+package: Circle
