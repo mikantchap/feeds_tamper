@@ -20,6 +20,6 @@ This contains various mapping arrays D7 value => D9 value eg
     '18-24 years' => '4',
     '25-64 years' => '5',
     '65-85 years' => '7',
-    '85 +' => '8',  etc..```
+    '85 +' => '8',  etc```
 
 This extension has been developed and by [Michael Chaplin](https://github.com/mikantchap).
